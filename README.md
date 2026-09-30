@@ -29,17 +29,12 @@
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 **Database & Auth**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
@@ -86,9 +81,9 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/riddhi-jain-11457429a/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/riddhi-jain-11457429a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:riddhijain1003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="[https://YOUR_PORTFOLIO.com](https://riddhijain-portfolio.netlify.app)"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://riddhijain-portfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
